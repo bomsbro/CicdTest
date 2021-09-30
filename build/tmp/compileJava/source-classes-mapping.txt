@@ -1,0 +1,4 @@
+com/cicd/test/web/HelloController.java
+ com.cicd.test.web.HelloController
+com/cicd/test/Application.java
+ com.cicd.test.Application
